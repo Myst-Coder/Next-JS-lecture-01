@@ -21,7 +21,7 @@ To get started, simply open the `index.html` file in your web browser.
 
 ## Credits
 
-This application is created by myst-coder.
+This application is created by Myst-Coder.
 
 ## License
 
